@@ -32,8 +32,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/handwritten-digit-recognition.git
-    cd handwritten-digit-recognition
+    git clone https://github.com/anshraz27/Handwritten-digit-recognition-system/blob/main/nn1.ipynb
     ```
 
 2. **Install the required dependencies:**
@@ -85,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or feedback, please feel free to contact me at [theansraj@gmail.com](mailto:your-email@example.com).
 
 ---
 
